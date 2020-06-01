@@ -3,8 +3,8 @@ This repo contains several courses I learnt on DataCamp.
 
 ## Certificates
 
-1. [Advanced Deep Learning with Keras] (https://www.datacamp.com/statement-of-accomplishment/course/c31224aaba08f551c6e1f4ed3b9b6b83e072e809)
-2. [Image Processing with Keras in Python] (https://www.datacamp.com/statement-of-accomplishment/course/5df63c86a4de58424f93d4ba07987a24b9a47b42)
+1. [Advanced Deep Learning with Keras] https://www.datacamp.com/statement-of-accomplishment/course/c31224aaba08f551c6e1f4ed3b9b6b83e072e809
+2. [Image Processing with Keras in Python] https://www.datacamp.com/statement-of-accomplishment/course/5df63c86a4de58424f93d4ba07987a24b9a47b42
 3. [Intermediate Python] (https://www.datacamp.com/statement-of-accomplishment/course/09d8ca08dc35d35e41df53ae109365e107dd1d90)
 4. [Introduction to Data Engineering] (https://www.datacamp.com/statement-of-accomplishment/course/f6dd7a8bb4bab0cbef57e52962de9e241b91b957)
 5. [Introduction to Deep Learning in Python] (https://www.datacamp.com/statement-of-accomplishment/course/8760070a53df0c009c200809be622faefd669673)
